@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, Sevde Nur</h1>
+<h1 align="center">Hi 👋,I'm Sevde Nur</h1>
 - 🌱 I’m currently learning **Bootstrap**
 - 💬 Ask me about **TypeScript, React, Javascript, CSS**
 - 📫 How to reach me **sevdenurakpianr7@gmail.com**
